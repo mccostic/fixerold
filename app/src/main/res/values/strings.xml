@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FixerCurrencyApp</string>
+    <string name="app_name_colored">Currency Calculator<font color='red'>Hello world!</font></string>
+    <string name="nav_menu_icon_description">Navigation menu icon</string>
+    <string name="calculator_text">Calculator</string>
+    <string name="dot_text">.</string>
+    <string name="currency_text">Currency</string>
+    <string name="compare_arrow_description">Compare arrow</string>
+    <string name="info_icon_description">Info icon</string>
+    <string name="detail_text">Details</string>
+</resources>
